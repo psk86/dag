@@ -1,3 +1,3 @@
 == README
 
-Family relationship using directed acyclic graph
+Family relationships using directed acyclic graph
